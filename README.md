@@ -6,11 +6,6 @@
 I have spent 10+ years in Tech, coming all the way up to the PM position. The road, obviously, had its hardships as I had quite a number of projects/companies I worked on over the years to keep the gears turning.
 I am utterly frightened by complacency in whatever we talk about – life, products, hobbies.
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
 ## What I do
 **Making your clients' Jobs To Be Done a reality. One storypoint at a time. Sprint by sprint.**
 - Mentorship
@@ -18,6 +13,11 @@ I'm here to assist you every step of the way. Whether you're embarking on a new 
 - Writing
 As a chronically scatterbrained individual with a penchant for embracing the chaos, my journals often find themselves in a myriad of places - you see, I have this love affair with product management and agile. 
 But let me tell you, it's not all rainbows and unicorns. I'm here to spill the tea on both the highs and lows of my vocation, exposing the good, the bad, and the downright hilarious! So buckle up, my friend, and join my Substack tribe!
+- Consulting
+With my extensive expertise in implementing Scrum, I have successfully transformed numerous struggling and inexperienced teams. I possess a wealth of practical knowledge and real-world case studies that can be invaluable in guiding conversations and achieving tangible results. Let's explore the common touchpoints to work together!
+- Podcast
+The much-anticipated yet-another-jtbd-podcast is currently in the works! We're excited to share that the microphones have been purchased, the studio is set, and the team is diligently preparing our Miro boards to deliver a podcast experience that will exceed all expectations.
+Get ready for an exciting journey ahead. Stay tuned for updates, because this is definitely worth the wait!
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
@@ -63,3 +63,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [LinkedIn](https://medium.com/@shawhin)
 - [Mastodon](https://medium.com/@shawhin)
 - [Mentorcruise](https://medium.com/@shawhin)
+
+
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
