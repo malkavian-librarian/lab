@@ -1,7 +1,6 @@
-#lab
-# Data Scientist
+# Product Owner
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+####  Agile, User Research, Analytics | Substack Writer
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
@@ -53,4 +52,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Substack](https://medium.com/@shawhin)
+- [LinkedIn](https://medium.com/@shawhin)
+- [Mastodon](https://medium.com/@shawhin)
+- [Mentorcruise](https://medium.com/@shawhin)
