@@ -1,4 +1,4 @@
-# Product Owner
+# Product Manager
 
 ####  Agile, User Research, Analytics | Substack Writer
 
